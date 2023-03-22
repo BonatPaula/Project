@@ -1,4 +1,4 @@
-# Project
+# DataAnalysis
 This project includes:
  - Correspondence analysis
  - Principal component analysis
